@@ -1,28 +1,28 @@
-# image_processing
+# image_processing<br><br>
 
-Description. 
-The package image-processing-thiagor is used to:
-	Processing:
+Description. <br>
+The package image-processing-thiagor is used to:<br>
+	Processing:<br>
 		- Histogram matching<br>
-		- Structural similarity
-		- Resize image
-	Utils:
-		- Read image
-		- Save image
-		- Plot image
-		- Plot result
-		- Plot histogram
+		- Structural similarity<br>
+		- Resize image<br>
+	Utils:<br>
+		- Read image<br>
+		- Save image<br>
+		- Plot image<br>
+		- Plot result<br>
+		- Plot histogram<br>
 
-## Installation
+## Installation<br><br>
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name<br>
 
-```bash
-pip install image-processing-thiagor
-```
+```bash<br>
+pip install image-processing-thiagor<br>
+```<br><br>
 
-## Author
-Thiago Regis
+## Author<br>
+Thiago Regis<br><br>
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## License<br>
+[MIT](https://choosealicense.com/licenses/mit/)<br>
