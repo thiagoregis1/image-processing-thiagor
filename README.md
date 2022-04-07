@@ -3,7 +3,7 @@
 Description. 
 The package image-processing-thiagor is used to:
 	Processing:
-		- Histogram matching
+		- Histogram matching<br>
 		- Structural similarity
 		- Resize image
 	Utils:
