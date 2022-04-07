@@ -17,12 +17,12 @@ The package image-processing-thiagor is used to:<br>
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name<br>
 
-```bash<br>
-pip install image-processing-thiagor<br>
-```<br><br>
+```bash
+pip install image-processing-thiagor
+```
 
-## Author<br>
-Thiago Regis<br><br>
+## Author
+Thiago Regis
 
-## License<br>
-[MIT](https://choosealicense.com/licenses/mit/)<br>
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
